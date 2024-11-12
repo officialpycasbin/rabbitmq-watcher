@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.4.0](https://github.com/officialpycasbin/rabbitmq-watcher/compare/v1.3.0...v1.4.0) (2024-11-12)
+
+
+### Features
+
+* update path ([f589100](https://github.com/officialpycasbin/rabbitmq-watcher/commit/f589100a07f13ff63103f14f11881d9c69a3e3f7))
+
 # [1.3.0](https://github.com/officialpycasbin/rabbitmq-watcher/compare/v1.2.0...v1.3.0) (2024-03-29)
 
 
