@@ -1,7 +1,7 @@
 # rabbitmq-watcher
 
-[![Build Status](https://github.com/pycasbin/rabbitmq-watcher/actions/workflows/build.yml/badge.svg)](https://github.com/pycasbin/rabbitmq-watcher/actions/workflows/build.yml)
-[![Coverage Status](https://coveralls.io/repos/github/pycasbin/rabbitmq-watcher/badge.svg)](https://coveralls.io/github/pycasbin/rabbitmq-watcher)
+[![Build Status](https://github.com/officialpycasbin/rabbitmq-watcher/actions/workflows/build.yml/badge.svg)](https://github.com/officialpycasbin/rabbitmq-watcher/actions/workflows/build.yml)
+[![Coverage Status](https://coveralls.io/repos/github/officialpycasbin/rabbitmq-watcher/badge.svg)](https://coveralls.io/github/officialpycasbin/rabbitmq-watcher)
 [![Version](https://img.shields.io/pypi/v/casbin-rabbitmq-watcher.svg)](https://pypi.org/project/casbin-rabbitmq-watcher/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/casbin-rabbitmq-watcher.svg)](https://pypi.org/project/casbin-rabbitmq-watcher/)
 [![Pyversions](https://img.shields.io/pypi/pyversions/casbin-rabbitmq-watcher.svg)](https://pypi.org/project/casbin-rabbitmq-watcher/)
@@ -9,7 +9,9 @@
 [![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
 
 Rabbitmq Watcher is the rabbitmq watcher for pycasbin. With this library, Casbin can synchronize the policy with the database in multiple enforcer instances.
+
 ## Installation
+
 ```bash
 pip install casbin-rabbitmq-watcher
 ```
