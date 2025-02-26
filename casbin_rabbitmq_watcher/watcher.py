@@ -190,7 +190,7 @@ class RabbitWatcher:
         try:
             result = f()
         except Exception as e:
-            print(f"Casbin Redis Watcher error: {e}")
+            print(f"Casbin RabbitMQ Watcher error: {e}")
         else:
             return result
 
