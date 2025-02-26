@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.5.0](https://github.com/officialpycasbin/rabbitmq-watcher/compare/v1.4.0...v1.5.0) (2025-02-26)
+
+
+### Features
+
+* fix log_record error typo ([#1](https://github.com/officialpycasbin/rabbitmq-watcher/issues/1)) ([3515ad2](https://github.com/officialpycasbin/rabbitmq-watcher/commit/3515ad2afddf5de9120e772e76324a089b4b56c9))
+
 # [1.4.0](https://github.com/officialpycasbin/rabbitmq-watcher/compare/v1.3.0...v1.4.0) (2024-11-12)
 
 
