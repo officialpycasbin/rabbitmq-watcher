@@ -22,6 +22,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/officialpycasbin/rabbitmq-watcher",
     keywords=[
+        "pycasbin",
         "casbin",
         "Rabbitmq",
         "casbin-watcher",
