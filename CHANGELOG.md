@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.6.0](https://github.com/officialpycasbin/rabbitmq-watcher/compare/v1.5.0...v1.6.0) (2025-08-17)
+
+
+### Features
+
+* switch from casbin to pycasbin ([#2](https://github.com/officialpycasbin/rabbitmq-watcher/issues/2)) ([84ae32e](https://github.com/officialpycasbin/rabbitmq-watcher/commit/84ae32ec2bce93669d6fe07b69519d4f75f23110))
+
 # [1.5.0](https://github.com/officialpycasbin/rabbitmq-watcher/compare/v1.4.0...v1.5.0) (2025-02-26)
 
 
