@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.7.0](https://github.com/officialpycasbin/rabbitmq-watcher/compare/v1.6.0...v1.7.0) (2025-08-21)
+
+
+### Features
+
+* fix README badges ([#3](https://github.com/officialpycasbin/rabbitmq-watcher/issues/3)) ([d2785ab](https://github.com/officialpycasbin/rabbitmq-watcher/commit/d2785abfa853469db742a5d84e871c9b6bce420b))
+
 # [1.6.0](https://github.com/officialpycasbin/rabbitmq-watcher/compare/v1.5.0...v1.6.0) (2025-08-17)
 
 
